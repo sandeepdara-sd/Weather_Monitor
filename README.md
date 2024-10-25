@@ -87,13 +87,10 @@ API Integration
 The application utilizes the OpenWeatherMap API for fetching weather data. Ensure you have a valid API key to access real-time data.
 
 Screenshots
-Creating Rules:
-![image](https://github.com/user-attachments/assets/8ee0a0ed-2336-45c9-bbf6-0a314e3ef801)
-Combining Rules:
-![image](https://github.com/user-attachments/assets/f0bbc390-3b62-4d00-9755-1d28f814a4a5)
-Evaluating Rules:
-![image](https://github.com/user-attachments/assets/e612606b-ad12-4aa5-b5ae-ed3f6f54f3aa)
-
+Weather reports:
+![image](https://github.com/user-attachments/assets/56450811-b2ae-4330-a72a-b03fac3a0e8d)
+Weather Summary:
+![image](https://github.com/user-attachments/assets/f454c290-be73-48f5-a493-a7d6859f5937)
 
 
 Contributing
