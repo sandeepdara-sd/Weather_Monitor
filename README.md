@@ -1,6 +1,6 @@
 # Weather Monitoring Dashboard
 
-![Weather Dashboard]
+![Weather Dashboard](https://img.shields.io/badge/Weather%20Dashboard-v1.0-brightgreen.svg)
 
 ## Table of Contents
 
