@@ -1,7 +1,6 @@
 import Weather from '../models/weatherModel.js';
 import { getWeatherFromAPI } from '../services/weatherService.js';
 
-import { sendAlertEmail } from '../utils/mailService.js';
 
 // export const getWeatherData  = async (req, res) => {
 //     try {
